@@ -1,0 +1,9 @@
+[Core]
+Name = Yesno
+Module = yesno
+
+[Documentation]
+Description = Respond with gif from http://yesno.wtf/api
+
+[Python]
+Version = 3
